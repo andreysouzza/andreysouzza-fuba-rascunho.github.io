@@ -206,7 +206,8 @@ i {
     flex-direction: column;
   }
   .about-content img {
-    max-width: none;
+    min-width: 438px;
+    max-width: 438px;
     margin: 40px 0;
   }
 }
